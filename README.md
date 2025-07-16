@@ -1,7 +1,7 @@
 # Hi! I'm Alice
 
 ### Let me introduce myself...
-Born and raised in Italy, I eventually decided to move north and discovered a lovely city called **Aachen**, in Germany. This is where I’ve been living for the past five years and where I continue to grow and develop personally and professionally.
+Born and raised in Italy, I eventually decided to move north and discovered a lovely city called **Aachen**, in Germany. This is where I'm currently living and where I continue to grow and develop personally and professionally.
 
 Sometimes the rainy showers make me dream of sunnier, southern places — but Germany definitely has its bright sides!
 
