@@ -5,9 +5,10 @@ Born and raised in Italy, I eventually decided to move north and discovered a lo
 
 Sometimes the rainy showers make me dream of sunnier, southern places — but Germany definitely has its bright sides!
 
-I’m a media designer with a background in digital and print, currently expanding my skills in web development through the Neue Fische bootcamp. I have experience working with WordPress, UX/UI design, and creative content, and I’m passionate about building user-friendly digital experiences.
+I’m a media designer with a background in digital and print, currently expanding my skills in web development. I have experience working with WordPress, UX/UI design, and creative content, and I’m passionate about building user-friendly digital experiences.
 
 Here are my **main skills**:
+
 - 🖼️ Media Design
 
 - 💻 WordPress Website Creation
@@ -18,9 +19,9 @@ Here are my **main skills**:
 
 - 🎨 Visual & Creative Content Creation
 
-- 🌈 Adobe Creative Suite (Photoshop, InDesign, Illustrator)
+- 🌈 Adobe Creative Suite (Photoshop, InDesign, Illustrator, XD, After Effects, Premiere Pro)
 
-- 🐠 Web Development (in progress through Neue Fische Bootcamp)
+- 🐠 Web Development (HTML, CSS, JavaScript, React.js, Next.js, MongoDB)
 
 - 🌎 Multilingual Communication (Italian, German, English)
 
