@@ -21,7 +21,7 @@ Here are my **main skills**:
 
 - 🌈 Adobe Creative Suite (Photoshop, InDesign, Illustrator, XD, After Effects, Premiere Pro)
 
-- 🐠 Web Development (HTML, CSS, JavaScript, React.js, Next.js, MongoDB)
+- 🌐 Web Development (HTML, CSS, JavaScript, React.js, Next.js, MongoDB)
 
 - 🌎 Multilingual Communication (Italian, German, English)
 
